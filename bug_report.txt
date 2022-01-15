@@ -1,1 +1,7 @@
-
+  Summory:Items dont remove fast from the cart 
+	Preconditions:The item is in the cart
+	STR:Delete item from the cart
+	Result:Item is still in the cart
+	Expected result:Selected item was deleted from the cart
+	Author:Shmidt D.
+	Enviroment:Google Chorme v.95.0.4638.69
